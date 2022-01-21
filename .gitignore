@@ -2,4 +2,4 @@
 *.pepk
 .idea
 /build.gradle
-*.png
+/*.png
