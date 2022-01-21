@@ -1,0 +1,5 @@
+*.jks
+*.pepk
+.idea
+/build.gradle
+*.png
